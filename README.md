@@ -8,4 +8,6 @@
 - Shreyas Devaraj 
 ---
 
+![screen snap](image.png)
+
 This is the first initialization of git-homework repo.
