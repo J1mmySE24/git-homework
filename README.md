@@ -16,7 +16,9 @@
 <img width="1470" alt="Screenshot 2024-10-24 at 10 33 20 PM" src="https://github.com/user-attachments/assets/18bf1b05-159b-4c4c-b4dc-8015c19b7998">
 
 ### Shreyas Devaraj
+##### Web preview with footer
 ![screen snap](image-shreyas.png)
-
+##### Step 9 : `git stash`   
+![git stash](git-shreyas.png)
 
 This is the first initialization of git-homework repo.
